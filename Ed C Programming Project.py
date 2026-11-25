@@ -26,3 +26,5 @@ while running:
 			running = False
 	pygame.display.flip
 	Clock.tick(30)
+
+#Git test
